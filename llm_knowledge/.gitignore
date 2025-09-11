@@ -42,5 +42,3 @@ htmlcov/
 *.db
 
 .langgraph_api/
-
-*.pdf
